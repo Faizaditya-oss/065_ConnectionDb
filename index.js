@@ -6,10 +6,10 @@ const port = 3000;
 
 // Konfigurasi koneksi ke PostgreSQL
 const pool = new Pool({
-  user: 'postgres',          // Sesuaikan dengan username postgres kamu
+  user: 'postgres',        
   host: 'localhost',
-  database: 'mahasiswa',     // Nama database sesuai tugas
-  password: 'faiz18', // Ubah dengan password postgres kamu
+  database: 'mahasiswa',     
+  password: 'faiz18', 
   port: 5432,
 });
 
