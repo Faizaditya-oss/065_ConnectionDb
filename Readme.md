@@ -11,4 +11,4 @@ Tugas membuat API GET untuk mengambil data mahasiswa dari database PostgreSQL.
 ## Hasil Pengujian (GET Data)
 Berikut adalah bukti pengujian menggunakan Postman:
 
-c:\Users\FAIZ ADITYA\Pictures\Screenshots\Screenshot 2026-07-13 101407.png
+<img width="1592" height="990" alt="Postman" src="https://github.com/user-attachments/assets/d6ef9ca1-30eb-4332-ba69-5c18314ab858" />
